@@ -7,7 +7,7 @@ import java.net.NetworkInterface;
 import java.net.UnknownHostException;
 import java.sql.Timestamp;
 import java.util.Calendar;
-public class test {
+public class nwk {
 
 	public static void main(String[] args) throws UnknownHostException, IOException {
 	 
