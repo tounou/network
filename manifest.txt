@@ -1,1 +1,1 @@
-Main-Class: testnwk.nwk
+Main-Class: nwk
