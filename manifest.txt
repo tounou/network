@@ -1,4 +1,4 @@
-Main-Class: /var/jenkins_home/jobs/Antoine_network_test/workspace/nwk.class
+Main-Class: nwk.class
 Class-Path: nwk.class
 
  
