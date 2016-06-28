@@ -1,5 +1,6 @@
 Main-Class: nwk.class
-Class-Path: nwk.class
+
+
 
  
  
