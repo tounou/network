@@ -16,8 +16,8 @@ public class nwk {
 		Calendar calendar = Calendar.getInstance();
 	    Timestamp currentTimestamp = new java.sql.Timestamp(calendar.getTime().getTime());
 	    
-	    //PrintStream out = new PrintStream(new FileOutputStream("c:/Java/output.out", true));
-	    //System.setOut(out);
+	    PrintStream out = new PrintStream(new FileOutputStream("/var/jenkins_home/jobs/Antoine_network_test/workspace/output.out", true));
+	    System.setOut(out);
 	    
 	    System.out.println("");
 	    System.out.println("");
